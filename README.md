@@ -65,7 +65,7 @@ Each export automatically includes:
 
 ---
 
-## 🧪 Sample Usage
+## Sample Usage
 1. Place your cleaned Parquet files inside the designated data folder.  
 2. Run the notebook cells in order:
    - Table creation
