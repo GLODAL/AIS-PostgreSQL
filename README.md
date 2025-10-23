@@ -100,6 +100,5 @@ Example directory structure:
 
 ---
 
-**Author:** Val Kenneth Arado  
-📆 **Last Updated:** October 2025  
-🔖 **Type:** Jupyter Notebook – PostgreSQL AIS Data Workflow
+**Last Updated:** October 2025  
+**Type:** Jupyter Notebook – PostgreSQL AIS Data Workflow
